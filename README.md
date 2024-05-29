@@ -3,7 +3,8 @@ Welcome to the Sentiment Analysis Dashboard repository! This project provides an
 
 ![image](https://github.com/nguyenngocquynhgiang/Sentiment-Analysis-Web-App-using-Python-Streamlit/assets/135851627/a6c83c4d-33fc-424e-ad31-741168ebee82)
 
-
+### Detailed website about the project:
+https://sites.google.com/view/sentimentanalysiswebapp/trang-ch%E1%BB%A7?authuser=3
 
 ## Table of Contents
 
