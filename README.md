@@ -66,14 +66,21 @@ sentiment-analysis-dashboard/
 ```
 
 ## Technical Details
+![image](https://github.com/nguyenngocquynhgiang/Sentiment-Analysis-Web-App-using-Python-Streamlit/assets/135851627/a1d2ba2a-d2b9-4136-8901-f7f3768fb297)
 
 ### Sentiment Analysis
 
 The sentiment analysis is performed using the TextBlob library. TextBlob provides a simple API for diving into common natural language processing (NLP) tasks, including part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
+![image](https://github.com/nguyenngocquynhgiang/Sentiment-Analysis-Web-App-using-Python-Streamlit/assets/135851627/ac44903d-fc37-412c-b3e2-b0ac4058cbee)
+
+![image](https://github.com/nguyenngocquynhgiang/Sentiment-Analysis-Web-App-using-Python-Streamlit/assets/135851627/e0cf53f5-3903-4cfa-bccd-fa106ee47d64)
+
+![image](https://github.com/nguyenngocquynhgiang/Sentiment-Analysis-Web-App-using-Python-Streamlit/assets/135851627/50194cfe-4353-49e7-8c66-8550e0d08141)
 
 ### Text Cleaning
 
 Text cleaning is handled using the cleantext library. This library helps preprocess text by removing unnecessary characters, extra spaces, stopwords, and performing other text normalization tasks.
+![image](https://github.com/nguyenngocquynhgiang/Sentiment-Analysis-Web-App-using-Python-Streamlit/assets/135851627/6e3feef8-fc6c-492b-a887-15fd8fd9254e)
 
 ### Visualization
 
