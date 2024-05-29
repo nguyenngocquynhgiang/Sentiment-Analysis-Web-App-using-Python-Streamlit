@@ -1,7 +1,9 @@
 # Sentiment Analysis 
+Welcome to the Sentiment Analysis Dashboard repository! This project provides an interactive web application for performing sentiment analysis on text data. The dashboard is built using Streamlit and leverages TextBlob for sentiment analysis and cleantext for text preprocessing. It supports both individual text analysis and bulk analysis of text data from CSV or Excel files.
+
 ![image](https://github.com/nguyenngocquynhgiang/Sentiment-Analysis-Web-App-using-Python-Streamlit/assets/135851627/a6c83c4d-33fc-424e-ad31-741168ebee82)
 
-Welcome to the Sentiment Analysis Dashboard repository! This project provides an interactive web application for performing sentiment analysis on text data. The dashboard is built using Streamlit and leverages TextBlob for sentiment analysis and cleantext for text preprocessing. It supports both individual text analysis and bulk analysis of text data from CSV or Excel files.
+
 
 ## Table of Contents
 
